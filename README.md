@@ -17,3 +17,7 @@ To reach an understanding of the functioning of git and github
 ## New section
 
 Content to display new changes added to the repository
+
+### Copyright
+
+2022 Git training
