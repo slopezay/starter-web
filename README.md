@@ -18,6 +18,10 @@ To reach an understanding of the functioning of git and github
 
 Content to display new changes added to the repository
 
+## how to contribute
+
+Please fork this repository and then issue pull request for review.
+
 ### Copyright
 
 2022 Git training
