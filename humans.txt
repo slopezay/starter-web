@@ -8,6 +8,7 @@
 # THANKS
 
     <name>
+	we are adding some other text here
 
 # TECHNOLOGY COLOPHON
 
